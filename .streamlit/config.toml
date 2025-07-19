@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#3B82F6"         # Bright royal blue
+backgroundColor = "#F0F9FF"      # Frosty light blue
+secondaryBackgroundColor = "#E0F2FE"  # Powder blue
+textColor = "#0F172A"            # Graphite
+font = "sans serif"
+
